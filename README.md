@@ -1,6 +1,6 @@
 # 📊 Cost Optimization & Profitability Analysis (FP&A)
 
-![Dashboard](dashboard.png)
+![Dashboard]([dashboard.png](https://github.com/DedeepyaAlluri/-cost-optimization-fpna-analysis/blob/main/Cost%20Optimisation%20Dashboard.png))
 
 ---
 
